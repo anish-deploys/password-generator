@@ -1,5 +1,5 @@
 // Handle Slider Control and Display Password Length 
-let lengthDisplay = document.querySelector('[lengthDisplay');
+let lengthDisplay = document.querySelector('[lengthDisplay]');
 // console.log(lengthDisplay)
 let slider = document.querySelector('input[type=range]');
 // console.log(slider)
